@@ -79,7 +79,7 @@ fabric.properties
 
 # add
 .idea
-.build
+build
 .settings
 bin
 .project
